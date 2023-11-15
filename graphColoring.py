@@ -4,12 +4,12 @@ n = 4 # Number of nodes
 node_colours = [None]*n
 
 ## Example 1
-node_graph = [
-[0,1,0,0],
-[1,0,1,1],
-[0,1,0,0],
-[0,1,0,0]
-]
+# node_graph = [
+# [0,1,0,0],
+# [1,0,1,1],
+# [0,1,0,0],
+# [0,1,0,0]
+# ]
 
 ## Example 2
 # node_graph = [
